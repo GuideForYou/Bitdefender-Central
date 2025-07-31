@@ -4,7 +4,7 @@ How to Get a Bitdefender Central Subscription?
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.bitdefender.com" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?4YTrHbkkyqwDuxaFXc4fYvMd6zBfp5H1Mrvp0NXVctpvro36GIzUXIwq9o1uTDnpEO1KI7BOq1JNU" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Get Bitdefender Now
         </a>
     </div>
@@ -82,10 +82,10 @@ Bitdefender Central makes it easy to manage your cybersecurity from one place. W
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.bitdefender.com/solutions/" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?4YTrHbkkyqwDuxaFXc4fYvMd6zBfp5H1Mrvp0NXVctpvro36GIzUXIwq9o1uTDnpEO1KI7BOq1JNU" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 View Bitdefender Plans
         </a>
-        <a href="https://central.bitdefender.com/password-reset" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://pre.im/?4YTrHbkkyqwDuxaFXc4fYvMd6zBfp5H1Mrvp0NXVctpvro36GIzUXIwq9o1uTDnpEO1KI7BOq1JNU" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Reset Central Password
         </a>
     </div>
